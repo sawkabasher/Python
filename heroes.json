@@ -1,0 +1,60 @@
+[	{
+	"Name": "widowmaker",
+	"x_pos" : "1410",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "sombra",
+	"x_pos" : "1177",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "tracer",
+	"x_pos" : "1350",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "mercy",
+	"x_pos" : "1716",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "ana",
+	"x_pos" : "1486",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "mccree",
+	"x_pos" : "884",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "genji",
+	"x_pos" : "712",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "wrecking ball",
+	"x_pos" : "402",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "zarya",
+	"x_pos" : "460",
+	"y_pos" : "910"		
+	},
+
+	{
+	"Name": "torbjorn",
+	"x_pos" : "1295",
+	"y_pos" : "910"		
+	}
+]
